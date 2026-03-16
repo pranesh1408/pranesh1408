@@ -84,12 +84,6 @@ Fully serverless ETL pipeline ingesting, transforming, and analyzing YouTube ana
 
 ---
 
-## ✍️ Latest Writing
-
-📖 I document my projects and learnings on **[Medium →](https://medium.com/@praneshganesh8)**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
