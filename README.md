@@ -1,16 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-```
-██████╗ ██████╗  █████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝██║  ██║
-██████╔╝██████╔╝███████║██╔██╗ ██║█████╗  ███████╗███████║
-██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
-██║     ██║  ██║██║  ██║██║ ╚████║███████╗███████║██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+# Hi, I'm Pranesh 👋
 
-### `> Data Engineer · Pipeline Builder · Cloud Tinkerer`
+### Data Engineering Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranesh)
 [![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praneshganesh8)
