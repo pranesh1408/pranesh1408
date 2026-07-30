@@ -13,15 +13,15 @@
 
 ---
 
-## 👋 Hey, I'm Pranesh
+## Hey, I'm Pranesh
 
 Data Engineer based in **Chennai, India** — I build pipelines that move, clean, and transform data at scale.  
 I care about data that actually works in production: reliable ingestion, clean transformations, and dashboards people actually use.
 
-- 🔭 Obsessed with **ETL/ELT pipelines**, **cloud data platforms**, and **real-time streaming**
-- ✍️ I write about what I build on **[Medium]([https://medium.com/@praneshganesh8](https://medium.com/@praneshg))**
-- 🎓 B.Tech ECE @ **VIT Chennai** (2021–2025)
-- 📬 **praneshganesh8@outlook.com**
+-  Obsessed with **ETL/ELT pipelines**, **cloud data platforms**, and **real-time streaming**
+-  I write about what I build on **[Medium]([https://medium.com/@praneshganesh8](https://medium.com/@praneshg))**
+-  B.Tech ECE @ **VIT Chennai** (2021–2025)
+-  **praneshganesh8@outlook.com**
 
 ---
 
